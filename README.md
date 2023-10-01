@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### -🔭 I’m currently working on digital solutions at Bosch
-### -🌱 I’m currently learning PYTHON, JAVA, DART, DJANGO.
+### -🌱 I’m currently learning PYTHON, JAVA, DART.
 ### -⚡ Fun fact: I LOVE ROBOTIC 🤖
 
 <!--
